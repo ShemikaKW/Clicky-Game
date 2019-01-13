@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "/images/batman.jpg",
+      "cliked": false
+    },
+    {
+        "id": 2,
+        "image": "/images/bane.jpg",
+        "cliked": false
+    },
+    {
+        "id": 3,
+        "image": "images/catwoman.jpg",
+        "cliked": false
+    },
+    {
+        "id": 4,
+        "image": "images/hugo.jpg",
+        "cliked": false
+    },
+    {
+        "id": 5,
+        "image": "images/joker.jpg",
+        "cliked": false
+    },
+    {
+        "id": 6,
+        "image": "images/mr-freeze.jpg",
+        "cliked": false
+    },
+    {
+        "id": 7,
+        "image": "images/penguin.jpg",
+        "cliked": false
+    },
+    {
+        "id": 8,
+        "image": "images/poison-ivy.jpg",
+        "cliked": false
+    },
+    {
+        "id": 9,
+        "image": "images/Riddler.jpg",
+        "cliked": false
+    },
+    {
+        "id": 10,
+        "image": "images/robin.jpg",
+        "cliked": false
+    },
+    {
+        "id": 11,
+        "image": "images/scarecrow.jpg",
+        "cliked": false
+    },
+    {
+        "id": 12,
+        "image": "images/twoface.jpg",
+        "cliked": false
+    }
+]
